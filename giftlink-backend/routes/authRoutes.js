@@ -10,7 +10,7 @@ const pino = require('pino');  // Import Pino logger
 
 const logger = pino();  // Create a Pino logger instance
 
-const { body, validationResult } = require('express-validator');
+
 
 
 //Create JWT secret
