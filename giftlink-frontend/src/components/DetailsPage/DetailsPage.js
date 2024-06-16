@@ -92,6 +92,9 @@ function DetailsPage() {
                         )}
                     </div>
                     {/* Task 6: Display gift details */}
+                    <p><strong>Name:</strong> 
+                        {gift.name}
+                    </p>
                     <p><strong>Category:</strong> 
                         {gift.category}
                     </p>
